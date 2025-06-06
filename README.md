@@ -42,9 +42,6 @@ Each folder contains the PowerShell script and a dedicated README explaining:
 
 ## Getting Started
 
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/Windows-Hardening.git
 Navigate to the folder of the script you want to run
 
 powershell
