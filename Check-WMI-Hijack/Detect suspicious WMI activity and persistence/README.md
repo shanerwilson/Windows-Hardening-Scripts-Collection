@@ -81,3 +81,11 @@ MIT License © 2025 Shane Wilson
 If you want to discuss WMI security, script improvements, or collaboration opportunities, feel free to reach out!
 
 ---
+
+## 🤳 Connect With Me
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/shane-wilson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+[linkedin]: https://linkedin.com/in/shane-wilson
