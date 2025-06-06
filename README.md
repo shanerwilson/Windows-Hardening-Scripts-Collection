@@ -60,6 +60,12 @@ Contributions, issues, and feedback are welcome! Feel free to open an issue or s
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Connect with me on LinkedIn to learn more.
+## 🤳 Connect With Me
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/shane-wilson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+[linkedin]: https://linkedin.com/in/shane-wilson
 
 Thank you for visiting!
