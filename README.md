@@ -44,25 +44,21 @@ Each folder contains the PowerShell script and a dedicated README explaining:
 
 Navigate to the folder of the script you want to run
 
-powershell
-Copy
-Edit
+## Powershell
+
 cd Windows-Hardening\Check-WMI-Hijack
 Run the script in PowerShell (you may need to set execution policy)
 
-powershell
-Copy
-Edit
+## Powershell
+
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\Check-WMI-Hijack.ps1
-Contributions & Feedback
+
+## Contributions & Feedback
 Contributions, issues, and feedback are welcome! Feel free to open an issue or submit a pull request to improve scripts or add new functionality.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-About Me
-Hi, I’m Shane Wilson — a cybersecurity professional passionate about practical security automation and system hardening. This repo reflects my work to create useful security tools for Windows environments.
 
 Connect with me on LinkedIn to learn more.
 
